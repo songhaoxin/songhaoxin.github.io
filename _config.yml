@@ -5,7 +5,7 @@ baseurl:
 url: https://songhaoxin.github.io/
 date_format: "ordinal"
 title: 窗外雨
-subtitle: "天一生水，地六成之"
+subtitle: "我们不能改变世界，但可以改变对世界的看法。"
 description: "窗外雨的个人博客"
 keywords: 程序,易学,政治,社会
 favicon: /favicon.ico
@@ -110,6 +110,7 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [C/C++,x86 assembly,Objective C, Golang,Ruby]
+skill_software_keywords: [UML,C/C++,x86 assembly,Objective C, Golang,Ruby]
 skill_mobile_app_keywords: [iOS]
 skill_windows_keywords: [Win32 SDK, Asp.Net, WinDbg]
+skill_yii_keywords: [易经, 玄空风水, 梅花易数, 四核预测]

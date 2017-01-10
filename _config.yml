@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 窗外雨
 subtitle: "窗外雨话码"
 description: "窗外雨的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 程序,易学,政治,社会
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -96,7 +96,7 @@ github_username: songhaoxin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
+duoshuo_username: songhaoxin
 disqus_username: songhaoxin
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
@@ -110,6 +110,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [C/C++,x86 assembly language Objective C, Golang,Ruby, Design Patterns]
+skill_software_keywords: [C/C++,x86 assembly,Objective C, Golang,Ruby]
 skill_mobile_app_keywords: [iOS]
 skill_windows_keywords: [Win32 SDK, Asp.Net, WinDbg]

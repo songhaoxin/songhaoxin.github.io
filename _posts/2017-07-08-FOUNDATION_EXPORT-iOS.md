@@ -31,6 +31,6 @@ NSString *const kMyConstantString = @"hello world";
 可以直接使用(myString == MyFirstConstant)来比较, 而define则使用的是([myString isEqualToString:MyFirstContant])
 哪个效率更高,显而易见了
 
-#####第一种是直接比较指针地址
-#####第二种则是一一比较字符串的每一个字符是否相等.
+**第一种是直接比较指针地址
+第二种则是一一比较字符串的每一个字符是否相等.**
 

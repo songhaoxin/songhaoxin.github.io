@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOUNDATION_EXPORT 与 #define
+title: FOUNDATION_EXPORT
 categories: osx/iOS
 description: 
 keywords: FOUNDATION_EXPORT

@@ -13,15 +13,17 @@ keywords: golang 包管理
 
 
 ## 什么是Go语言中的包
-包用来组织go文件，方便对文件进行归类、复用。比如Go内置的net包
-net </br>
- |--- http </br>
- |--- internal </br>
- |--- mail </br>
- |--- rpc </br>
- |--- smtp |--- testdata </br>
- |--- textproto </br>
- |--- url   </br>
+包用来组织go文件，方便对文件进行归类、复用。比如Go内置的net包  
+
+net  
+|--- http  
+|--- internal  
+|--- mail  
+|--- rpc  
+|--- smtp |--- testdata  
+|--- textproto  
+|--- url  
+
  
  以上是net包的一个目录结构，net本身是一个包，net目录下的 http 又是一个包。从这个大家可以看到，go语言的包其实就是我们计算机里的目录，或者叫文件夹，通过它们进行目录结构和文件组织，go只是对目录名字做了一个翻译，叫【包】而已。比如这里的net包其实就是net目录，http包其实就是http目录，这也是go语言中的一个命名习惯，包名和文件所在的目录名是一样的。  
  
